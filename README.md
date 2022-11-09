@@ -13,3 +13,7 @@ O projeto é dividido em três páginas - respectivamente:
 Link do deploy onde é possível testar a aplicação:
 
 https://kaleidoscopic-moxie-19f069.netlify.app/
+
+### Video com a aplicação em uso
+
+https://user-images.githubusercontent.com/108701108/200961763-aeddb5d3-46c4-4efa-b458-984270349458.mp4
